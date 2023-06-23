@@ -1,0 +1,274 @@
+[
+  {
+    "Rated Gallons": 5,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Tetra Whisper IQ 10",
+    "Image Link": "https://m.media-amazon.com/images/I/5126JHXNxDL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/4423Flo"
+  },
+  {
+    "Rated Gallons": 5,
+    "Type": "Internal",
+    "Quantity": 1,
+    "Product Name": "Aqueon Quietflow 10",
+    "Image Link": "https://m.media-amazon.com/images/I/415oY26a16L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3CDHVjV"
+  },
+  {
+    "Rated Gallons": 5,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "Small Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/31TKckPlI-L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/42X6O4N"
+  },
+  {
+    "Rated Gallons": 10,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Tetra Whisper IQ 10",
+    "Image Link": "https://m.media-amazon.com/images/I/5126JHXNxDL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/4423Flo"
+  },
+  {
+    "Rated Gallons": 10,
+    "Type": "Internal",
+    "Quantity": 1,
+    "Product Name": "Aqueon Quietflow 10",
+    "Image Link": "https://m.media-amazon.com/images/I/415oY26a16L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3CDHVjV"
+  },
+  {
+    "Rated Gallons": 10,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "Medium Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/31oNsED6LrL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/42NLX3X"
+  },
+  {
+    "Rated Gallons": 20,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Seachem Tidal 35",
+    "Image Link": "https://m.media-amazon.com/images/I/31oblfmttAL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/42UmAO1"
+  },
+  {
+    "Rated Gallons": 20,
+    "Type": "Internal",
+    "Quantity": 1,
+    "Product Name": "Aqueon Quietflow 20",
+    "Image Link": "https://m.media-amazon.com/images/I/41aCkIF6ygL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3XfnMud"
+  },
+  {
+    "Rated Gallons": 20,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "Medium Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/31oNsED6LrL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/42NLX3X"
+  },
+  {
+    "Rated Gallons": 29,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Seachem Tidal 35",
+    "Image Link": "https://m.media-amazon.com/images/I/31oblfmttAL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/42UmAO1"
+  },
+  {
+    "Rated Gallons": 29,
+    "Type": "Internal",
+    "Quantity": 1,
+    "Product Name": "Aqueon Quietflow 40",
+    "Image Link": "https://m.media-amazon.com/images/I/41JGp2qixhL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3qLP13e"
+  },
+  {
+    "Rated Gallons": 29,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "M-Large Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/31+ycR0IDmL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3qJWXC3"
+  },
+  {
+    "Rated Gallons": 40,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Seachem Tidal 55",
+    "Image Link": "https://m.media-amazon.com/images/I/31AyaYuWJUL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3p7Qkcx"
+  },
+  {
+    "Rated Gallons": 40,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "Polar Aurora 265",
+    "Image Link": "https://m.media-amazon.com/images/I/313QQbSU8cL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/46d3Xrs"
+  },
+  {
+    "Rated Gallons": 40,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "M-Large Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/31+ycR0IDmL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3qJWXC3"
+  },
+  {
+    "Rated Gallons": 55,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Seachem Tidal 55",
+    "Image Link": "https://m.media-amazon.com/images/I/31AyaYuWJUL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3p7Qkcx"
+  },
+  {
+    "Rated Gallons": 55,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "Polar Aurora 265",
+    "Image Link": "https://m.media-amazon.com/images/I/313QQbSU8cL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/46d3Xrs"
+  },
+  {
+    "Rated Gallons": 55,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "Large Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/419S7jrhvUL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3XjXLKf"
+  },
+  {
+    "Rated Gallons": 75,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Seachem Tidal 75",
+    "Image Link": "https://m.media-amazon.com/images/I/51EO7Qp+8WL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/445oDzC"
+  },
+  {
+    "Rated Gallons": 75,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "Polar Aurora 370",
+    "Image Link": "https://m.media-amazon.com/images/I/31x2LLa0E+L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3JokIWS"
+  },
+  {
+    "Rated Gallons": 75,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "X-Large Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/41Uz1n+LwSL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/46cyCoP"
+  },
+  {
+    "Rated Gallons": 125,
+    "Type": "HOB",
+    "Quantity": 1,
+    "Product Name": "Seachem Tidal 110",
+    "Image Link": "https://m.media-amazon.com/images/I/413DRChN5pL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/447zkSs"
+  },
+  {
+    "Rated Gallons": 125,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "Polar Aurora 525",
+    "Image Link": "https://m.media-amazon.com/images/I/31x2LLa0E+L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3qWewzb"
+  },
+  {
+    "Rated Gallons": 125,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "X-Large Sponge Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/41Uz1n+LwSL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/46cyCoP"
+  },
+  {
+    "Rated Gallons": 150,
+    "Type": "HOB",
+    "Quantity": 2,
+    "Product Name": "Seachem Tidal 110",
+    "Image Link": "https://m.media-amazon.com/images/I/413DRChN5pL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/447zkSs"
+  },
+  {
+    "Rated Gallons": 150,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "SunSun HW-3000",
+    "Image Link": "https://m.media-amazon.com/images/I/41exe4relOL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3Xl7ct1"
+  },
+  {
+    "Rated Gallons": 150,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "XX-Large Canister Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/4100-TpGbeL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3JnmGXz"
+  },
+  {
+    "Rated Gallons": 200,
+    "Type": "HOB",
+    "Quantity": 2,
+    "Product Name": "Seachem Tidal 110",
+    "Image Link": "https://m.media-amazon.com/images/I/413DRChN5pL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/447zkSs"
+  },
+  {
+    "Rated Gallons": 200,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "SunSun HW-3000",
+    "Image Link": "https://m.media-amazon.com/images/I/41exe4relOL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3Xl7ct1"
+  },
+  {
+    "Rated Gallons": 200,
+    "Type": "Sponge",
+    "Quantity": 1,
+    "Product Name": "XX-Large Canister Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/4100-TpGbeL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3JnmGXz"
+  },
+  {
+    "Rated Gallons": 250,
+    "Type": "Canister",
+    "Quantity": 1,
+    "Product Name": "Fluval FX6",
+    "Image Link": "https://m.media-amazon.com/images/I/41HCaqGW02L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/447AvRS"
+  },
+  {
+    "Rated Gallons": 250,
+    "Type": "Sponge",
+    "Quantity": 2,
+    "Product Name": "XX-Large Canister Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/4100-TpGbeL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3JnmGXz"
+  },
+  {
+    "Rated Gallons": 300,
+    "Type": "Canister",
+    "Quantity": 2,
+    "Product Name": "Fluval FX6",
+    "Image Link": "https://m.media-amazon.com/images/I/41HCaqGW02L._SL160_.jpg",
+    "Associates Link": "https://amzn.to/447AvRS"
+  },
+  {
+    "Rated Gallons": 300,
+    "Type": "Sponge",
+    "Quantity": "3+",
+    "Product Name": "XX-Large Canister Filter",
+    "Image Link": "https://m.media-amazon.com/images/I/4100-TpGbeL._SL160_.jpg",
+    "Associates Link": "https://amzn.to/3JnmGXz"
+  }
+]
